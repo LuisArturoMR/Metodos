@@ -1,0 +1,9 @@
+C:\Users\Arturo\AppData\Local\Temporary Projects\SerieSinCos\bin\Debug\SerieSinCos.exe
+C:\Users\Arturo\AppData\Local\Temporary Projects\SerieSinCos\bin\Debug\SerieSinCos.pdb
+C:\Users\Arturo\AppData\Local\Temporary Projects\SerieSinCos\bin\Debug\SerieSinCos.xml
+C:\Users\Arturo\AppData\Local\Temporary Projects\SerieSinCos\obj\x86\Debug\SerieSinCos.Form1.resources
+C:\Users\Arturo\AppData\Local\Temporary Projects\SerieSinCos\obj\x86\Debug\SerieSinCos.Resources.resources
+C:\Users\Arturo\AppData\Local\Temporary Projects\SerieSinCos\obj\x86\Debug\SerieSinCos.vbproj.GenerateResource.Cache
+C:\Users\Arturo\AppData\Local\Temporary Projects\SerieSinCos\obj\x86\Debug\SerieSinCos.exe
+C:\Users\Arturo\AppData\Local\Temporary Projects\SerieSinCos\obj\x86\Debug\SerieSinCos.xml
+C:\Users\Arturo\AppData\Local\Temporary Projects\SerieSinCos\obj\x86\Debug\SerieSinCos.pdb
